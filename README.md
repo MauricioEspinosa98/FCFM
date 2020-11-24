@@ -15,10 +15,10 @@
 [Resumenes](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Resumenes.pdf)
 
 ## Fase II
-[Avance I]()
+[Avance I](https://github.com/MauricioEspinosa98/Mau/blob/master/Avance_1_ProyectoIntegrador_Ind.pdf)
 
-[Prepraracion de datos]()
+[Prepraracion de datos](https://github.com/MauricioEspinosa98/Mau/blob/master/Preparacion_Datos_Mall.ipynb)
 
-[Visualizacion de datos]()
+[Visualizacion de datos](https://github.com/MauricioEspinosa98/Mau/blob/master/Visualización%20de%20datos.ipynb)
 
 [Avance II](https://github.com/MauricioEspinosa98/Mau/blob/master/Avance%20II%20PIA.ipynb)
