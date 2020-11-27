@@ -22,3 +22,5 @@
 [Visualizacion de datos](https://github.com/MauricioEspinosa98/Mau/blob/master/Visualización%20de%20datos.ipynb)
 
 [Avance II](https://github.com/MauricioEspinosa98/Mau/blob/master/Avance%20II%20PIA.ipynb)
+
+[Borrador poster](https://github.com/MauricioEspinosa98/Mau/blob/master/Borrador_Poster_MD.pdf)
