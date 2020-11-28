@@ -17,6 +17,8 @@
 ## Fase II
 [Ejercicios base de datos](https://github.com/MauricioEspinosa98/Mau/blob/master/AnalisisBD_1740483.pdf)
 
+[Ejercicios básicos python](https://github.com/MauricioEspinosa98/Mau/blob/master/Python_basico_1740483.ipynb)
+
 [Avance I](https://github.com/MauricioEspinosa98/Mau/blob/master/Avance_1_ProyectoIntegrador_Ind.pdf)
 
 [Prepraracion de datos](https://github.com/MauricioEspinosa98/Mau/blob/master/Preparacion_Datos_Mall.ipynb)
