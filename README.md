@@ -29,3 +29,5 @@
 [Avance II](https://github.com/MauricioEspinosa98/Mau/blob/master/Avance%20II%20PIA.ipynb)
 
 [Borrador poster](https://github.com/MauricioEspinosa98/Mau/blob/master/Borrador_Poster_MD.pdf)
+
+[Poster Final](https://github.com/MauricioEspinosa98/Mau/blob/master/Poster_final2_1740483.pdf)
